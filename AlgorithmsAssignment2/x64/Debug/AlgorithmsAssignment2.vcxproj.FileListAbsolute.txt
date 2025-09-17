@@ -1,0 +1,3 @@
+C:\Users\saras\source\repos\AlgorithmsAssignment2\x64\Debug\AlgorithmsAssignment2.exe
+C:\Users\saras\OneDrive\Työpöytä\Unity jutut\introduction-to-arrays-and-memory-management-sartsuli\AlgorithmsAssignment2\x64\Debug\AlgorithmsAssignment2.exe
+C:\Users\saras\Downloads\AlgorithmsAssignment2\AlgorithmsAssignment2\x64\Debug\AlgorithmsAssignment2.exe
